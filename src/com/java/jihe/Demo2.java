@@ -16,6 +16,7 @@ public class Demo2 {
         alist.add("张希栋");
         alist.add("苏大");
         alist.add("蚌院");
+        alist.add("锐锐大宝贝");
 
         alist.remove(3);
 
